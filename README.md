@@ -40,3 +40,9 @@ Este laboratorio tiene como objetivo implementar y validar una infraestructura d
 
 ### 2. Microsegmentación en WEB-Server
 - Regla de `iptables` configurada para permitir comunicación saliente exclusivamente hacia `192.168.87.20:3306` (DB-Server) y bloquear todo otro tráfico entre servidores.
+
+### 3. Ajuste de Topología de Red
+```html
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/24f138d8-1a62-4d04-bbc9-5f5694f3e072](https://github.com/user-attachments/assets/24f138d8-1a62-4d04-bbc9-5f5694f3e072)" alt="Topología de Red FortiGate" width="700"/>
+</p>
