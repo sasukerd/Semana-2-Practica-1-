@@ -1,7 +1,7 @@
-# Laboratorio de Seguridad de Redes - FortiGate IPS & Microsegmentación
+# Laboratorio de Seguridad de Redes
 
 ## Demostración en Video
-> **Enlace directo al video:** (https://youtu.be/TU_VIDEO_ID)  
+> **Enlace directo al video:** ([https://youtu.be/bq-lt1bbQ_0](https://youtu.be/bq-lt1bbQ_0))  
 > *En el video se muestra la cara, voz, fecha/hora del sistema y la validación de cumplimiento de todos los objetivos de seguridad.*
 
 ## Propósito del Laboratorio
@@ -12,9 +12,8 @@ Este laboratorio tiene como objetivo implementar y validar una infraestructura d
 ### Topología de Red
 ![Diagrama de Topología] 
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/5eee9ace-2ee3-47c5-ae5c-57e213d08304" />
+<img width="697" height="637" alt="image" src="https://github.com/user-attachments/assets/24f138d8-1a62-4d04-bbc9-5f5694f3e072" />
 
-****
 
 ### Esquema de Direccionamiento (Matrícula: 2025-0873)
 
