@@ -13,7 +13,9 @@ Este laboratorio tiene como objetivo implementar y validar una infraestructura d
 ![Diagrama de Topología] 
 
 <img width="697" height="637" alt="image" src="https://github.com/user-attachments/assets/24f138d8-1a62-4d04-bbc9-5f5694f3e072" />
+<img width="573" height="388" alt="image" src="https://github.com/user-attachments/assets/bf2ad92a-ea35-4317-b852-82caaa6e2c54" />
 <img width="942" height="559" alt="image" src="https://github.com/user-attachments/assets/f99e5fba-42a3-4233-a38c-aa3d7fff7781" />
+<img width="796" height="624" alt="image" src="https://github.com/user-attachments/assets/25a0a110-388b-447f-953d-24905c9a86d5" />
 
 
 ### Esquema de Direccionamiento (Matrícula: 2025-0873)
